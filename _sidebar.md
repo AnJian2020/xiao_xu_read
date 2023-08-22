@@ -4,3 +4,5 @@
 * [**统计学习方法**](./docs/统计学习方法/_sidebar.md)
 
 * [**Python深度学习**](./docs/Python深度学习/_sidebar.md)
+
+* [**云间迁移**](./docs/云间迁移/_sidebar.md)
